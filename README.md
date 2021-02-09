@@ -8,7 +8,8 @@ Supported file formats are .mp4, .avi, .mov, .mkv and .flv but mp4 is recommende
 # Not maintained
 
 This project is not actively maintained and developed. It is a free-time project I program on when I have time and feel like continuing.
-Furthermore, no support is likely to be given. There are some things that could make the program not work for you.
+There are some things that could make the program not work for you.
+Furthermore, no support is likely to be given. 
 
 But feel free to submit issues if you found a bug or you need help, I may take a look at it!
 
