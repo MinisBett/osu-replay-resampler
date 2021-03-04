@@ -12,5 +12,3 @@ There are some things that could make the program not work for you.
 Furthermore, no support is likely to be given. 
 
 But feel free to submit issues if you found a bug or you need help, I may take a look at it!
-
-**Please don't use the Ultimate Osu Sever Switcher Discord for support. I may transform that server into an universal Discord server for all of my applications.**
